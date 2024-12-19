@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"ThinkingInJava","l":"com.utk.documentation"}];updateSearchResults();
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"ThinkingInJava","l":"com.utk.model"}];updateSearchResults();
