@@ -33,6 +33,9 @@ public class ValueCompare {
 	@Override
 	public boolean equals(Object obj) {
 		// TODO Auto-generated method stub
+		int variableOne;
+		int variableTwo;
+		int variableThree;
 		return super.equals(obj);
 	}
 	
