@@ -1,1 +1,0 @@
-memberSearchIndex = [{"p":"com.utk.model","c":"ValueCompare","l":"equals(Object)","u":"equals(java.lang.Object)"},{"p":"com.utk.model","c":"ValueCompare","l":"hashCode()"},{"p":"com.utk.model","c":"ValueCompare","l":"setI(int)"},{"p":"com.utk.model","c":"ValueCompare","l":"ValueCompare()","u":"%3Cinit%3E()"}];updateSearchResults();
