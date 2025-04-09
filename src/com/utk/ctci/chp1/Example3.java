@@ -5,7 +5,7 @@ public class Example3 {
 	public static void main(String[] args) {
 		
 		String str = "Mr John S mith      ";
-		int trueLength = 13;
+		int trueLength = 14;
 //		str=str.trim();
 //		str=str.replaceAll("\\s", "%20");
 //		System.out.println("Converted String is : "+str);
