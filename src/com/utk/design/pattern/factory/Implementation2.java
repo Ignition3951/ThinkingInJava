@@ -20,4 +20,6 @@ class Implementation2 implements Service {
     public void method2() {
         logger.log(Level.INFO, () -> "Implementation2 method2");
     }
+
+    public static final ServiceFactory serviceFactory = (Implementation2::new); // lambda expression
 }
