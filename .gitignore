@@ -26,7 +26,6 @@ replay_pid*
 
 ### STS ###
 .apt_generated
-.classpath
 .factorypath
 .project
 .settings
@@ -37,3 +36,8 @@ replay_pid*
 
 ###TEXT FILES###
 *.txt
+/.idea/misc.xml
+/.idea/modules.xml
+/ThinkingInJava.iml
+/.idea/vcs.xml
+/.idea/workspace.xml
