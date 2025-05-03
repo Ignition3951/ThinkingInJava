@@ -1,7 +1,6 @@
-package com.utk.main;
+package com.utk.design.pattern.adapter;
 
 import com.utk.design.pattern.strategy.Apply;
-import com.utk.model.*;
 
 public class FilterProcessor {
 

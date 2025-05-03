@@ -1,4 +1,4 @@
-package com.utk.model;
+package com.utk.design.pattern.adapter;
 
 import com.utk.design.pattern.strategy.Processor;
 

@@ -1,4 +1,4 @@
-package com.utk.model;
+package com.utk.design.pattern.adapter;
 
 public class Waveform {
 
