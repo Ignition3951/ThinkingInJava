@@ -1,6 +1,8 @@
 package com.utk.model;
 
-public class FilterAdapter extends Processor{
+import com.utk.design.pattern.strategy.Processor;
+
+public class FilterAdapter extends Processor {
 
     Filter filter;
 

@@ -1,6 +1,6 @@
-package com.utk.model;
+package com.utk.design.pattern.strategy;
 
-public class Splitter extends Processor{
+public class Splitter extends Processor {
 
     @Override
     public String process(Object input) {

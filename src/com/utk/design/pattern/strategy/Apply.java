@@ -1,9 +1,4 @@
-package com.utk.main;
-
-import com.utk.model.Downcase;
-import com.utk.model.Processor;
-import com.utk.model.Splitter;
-import com.utk.model.Upcase;
+package com.utk.design.pattern.strategy;
 
 import java.util.logging.Level;
 import java.util.logging.Logger;
