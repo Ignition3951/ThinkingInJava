@@ -7,7 +7,7 @@ class Implementation2 implements Service {
 
     private static final Logger logger = Logger.getLogger(String.valueOf(Implementation2.class));
 
-    Implementation2() {
+    private Implementation2() {
 
     }
 
@@ -20,4 +20,6 @@ class Implementation2 implements Service {
     public void method2() {
         logger.log(Level.INFO, () -> "Implementation2 method2");
     }
+
+    public static final ServiceFactory SERVICE_FACTORY = (Implementation2::new);
 }
