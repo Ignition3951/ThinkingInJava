@@ -7,7 +7,7 @@ public class IntegerMatch {
     private static final Logger LOGGER = Logger.getLogger(String.valueOf(IntegerMatch.class));
 
     private static final String MINUSFOLLOWEDBYDIGITS = "-?\\d+";
-    private static final String MINUSORPLUSFOLLOWEDBYDIGITS = "-?\\d+";
+    private static final String MINUSORPLUSFOLLOWEDBYDIGITS = "([-+])?\\d+";
 
     public static void main(String[] args) {
         //A number might or might not be preceeded by a - sign followed by digits
